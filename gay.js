@@ -1,1 +1,1 @@
-let gay = 'queer';
+console.log("Let's just use nice words, pz");
