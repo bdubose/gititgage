@@ -1,0 +1,1 @@
+let gay = 'queer';
