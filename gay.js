@@ -1,1 +1,1 @@
-let gay = 'queer';
+let gay = "fag";
