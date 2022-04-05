@@ -1,2 +1,1 @@
-console.log("Let's just use nice words, pz");
-let gay = "fag";
+console.log('we are starting from scratch now');
